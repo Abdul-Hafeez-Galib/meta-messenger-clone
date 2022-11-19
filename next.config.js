@@ -2,7 +2,11 @@
 module.exports = {
   reactStrictMode: true,
   images: {
-    domains: ["links.papareact.com", "freesvg.org"],
+    domains: [
+      "links.papareact.com",
+      "freesvg.org",
+      "platform-lookaside.fbsbx.com",
+    ],
   },
   experimental: {
     appDir: true,
